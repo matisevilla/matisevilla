@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tecnico en Programacion, UTN
 
 - 📫 How to reach me ... matisevilla05@hotmail.com 
-- 😄 Pronouns: ... mati
+- 😄 Pronouns: ... Mati / Matute
 - ⚡ Knowledge in Microsoft Office package, c/c++ language, HTML-5 and CCS.
 
 <!---
